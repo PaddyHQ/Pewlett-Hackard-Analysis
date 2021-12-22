@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Pewlett HAckard",
+            "database": "PH-EmployeeDB",
+            "username": "postgres",
+            "password": "Pjh110491"
+        }
+    ]
+}
